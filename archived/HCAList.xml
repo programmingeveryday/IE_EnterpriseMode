@@ -1,0 +1,207 @@
+<site-list version="2">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>10.0.14357.1004</version>
+    <date-created>09/21/2020 23:22:16</date-created>
+  </created-by>
+  <site url="autoway.hyundaicapitalamerica.com" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="www.hyundaicapitalamerica.com" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="cubemoss.hcamerica.com" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="autoway.autoeveramerica.com" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="hyundaidealer.com" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="cubewf.hcamerica.com" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="www.nbcnews.com" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="g-vaatzit.autoever.com" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="www.experian.com" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="hmaservice.com" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="ftvhcacfbp01" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="10.119.19.144" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="10.120.24.236" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="irvhcahubp01.hke.local" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="irvhmfhypp02" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="irvhmfhypd02" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="10.119.18.121" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="10.119.18.131" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="10.119.18.129" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="crm.hcamerica.com" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="irvhcasbmp01v" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="sharepoint.hisna.com" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="www.aiminspections.com" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="eease.com" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="confweb.autoeveramerica.com" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="wpc.mobis.co.kr" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="www.dealeraccesssystem.com" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="adp.com" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="www.floorplan-solutions.net" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="portal.adp.com" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="uat.floorplan-solutions.net" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="www.autoeveramerica.com" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="autoeveramerica.com" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="autoway.kia.co.kr" converted="12.0.0.0|884f77c6c3d1722de48cf01f257755d57e8b84d0">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="irvhcaimpp01va.hke.local/sso/administrator.html" flagged="false">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="irvhcaemsp01v.hke.local" flagged="false">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="www.autoeveramerica.com/employee/haeabot.html">
+    <compat-mode>Default</compat-mode>
+    <open-in>None</open-in>
+  </site>
+  <site url="www.autoeveramerica.com/employee/kmabot.html">
+    <compat-mode>Default</compat-mode>
+    <open-in>None</open-in>
+  </site>
+  <site url="www.autoeveramerica.com/employee/hmabot.html">
+    <compat-mode>Default</compat-mode>
+    <open-in>None</open-in>
+  </site>
+  <site url="wdcs.hyundaidealer.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="www.kdealer.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="irvhisscmp04.hke.local">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="sharepoint.hisna.com/dept/servicedesk/AutoEver%20Service%20Desk/SiteAssets/Chatbot/halo.aspx">
+    <compat-mode>Default</compat-mode>
+    <open-in>None</open-in>
+  </site>
+  <site url="solarwinds.autoeveramerica.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="itsm.hmckmc.co.kr">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="mysites.hisna.com">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="http//h0061055h10625/">
+    <compat-mode>IE11</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="10.120.1.67">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="10.120.1.68">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="10.120.19.62">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+</site-list>
